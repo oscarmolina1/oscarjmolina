@@ -147,11 +147,6 @@ header h2 {
     width: 85%;
 }
 
-#extraPic {
-    height: 40%;
-    width: 40%;
-}
-
 .center-link {
     text-align: center;
 }
@@ -200,6 +195,11 @@ header h2 {
 
 .article-title-left {
     padding-bottom: 5%;
+}
+
+#extraPic {
+    height: 40%;
+    width: 40%;
 }
 
 .titles-row img {
