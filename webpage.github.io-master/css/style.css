@@ -147,6 +147,11 @@ header h2 {
     width: 85%;
 }
 
+#extraPic {
+    height: 60%;
+    width: 60%;
+}
+
 .center-link {
     text-align: center;
 }
