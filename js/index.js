@@ -2,7 +2,7 @@
 
 $(function(){
     $('.whoIAm').typed({
-        strings: ["1st Generation Undergrad", "Biochemist", "Researcher", "Mentor", "Mentee", "Team Member"],
+        strings: ["1st Generation Undergrad", "Biology PhD Candidate", "Biochemist", "Researcher", "Mentor", "Mentee", "Team Member"],
         typeSpeed: 40,
         startDelay:800, 
         backDelay: 1000,
